@@ -14,3 +14,8 @@
         npm run serve:ssr
 -> If show any error related to pwa then add pwa.
         ng add @angular/pwa --project *project-name*
+```
+
+# Screenshot
+
+[](https://github.com/Rahul151995/ssr-angular/blob/master/pagesource.png)
