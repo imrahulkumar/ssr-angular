@@ -17,8 +17,12 @@
 ```
 
 # Screenshot
- -> Right click on main content of website.
- -> Click on view page source.
- -> Now you can see the content.
+
+-> Right click on main content of website. 
+
+-> Click on view page source.
+
+-> Now you can see the content.
+
 
 ![](https://github.com/Rahul151995/ssr-angular/blob/master/pagesource.png)
