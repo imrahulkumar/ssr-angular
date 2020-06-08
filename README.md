@@ -18,4 +18,4 @@
 
 # Screenshot
 
-[](https://github.com/Rahul151995/ssr-angular/blob/master/pagesource.png)
+![](https://github.com/Rahul151995/ssr-angular/blob/master/pagesource.png)
