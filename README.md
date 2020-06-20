@@ -47,9 +47,7 @@ ng add @nguniversal/express-engine --clientProject myProjectName
       "projectType": "application",
       "schematics": {},
       "root": "",
-      "sourceRoot": "src",
-	  .
-	  .
+      "sourceRoot": "src"
 ```
 - It may happen that it will throw the error of *'**TypeError: Cannot read property 'ngOriginalError' of undefined'***
      - Basically this error is occur due to interceptor.
