@@ -37,7 +37,7 @@
 ng add @nguniversal/express-engine --clientProject myProjectName
 ```
 - You can find the project name from angular.json file. See below:-
-  ```json
+```json
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
@@ -48,6 +48,9 @@ ng add @nguniversal/express-engine --clientProject myProjectName
       "schematics": {},
       "root": "",
       "sourceRoot": "src"
+   }
+ }
+}
 ```
 - It may happen that it will throw the error of *'**TypeError: Cannot read property 'ngOriginalError' of undefined'***
      - Basically this error is occur due to interceptor.
